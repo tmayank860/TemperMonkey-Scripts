@@ -19,7 +19,7 @@
     var btn1 = document.createElement("BUTTON");
     btn1.id ='vidsrcme';
     btn1.innerHTML = "▶️ Stream Online #1";
-    btn1.style.border = '#f5c518';
+    btn1.style.border = '#f5ab18';
     btn1.style.margin = '0px 20px 25px';
     btn1.style.background = '#f5c518';
     btn1.style.color = '#000000';
